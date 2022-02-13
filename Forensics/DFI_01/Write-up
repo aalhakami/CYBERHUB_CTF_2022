@@ -3,7 +3,7 @@
 First let’s check the process was running using volatility2 , and plugin pslist .
 Command : vol.py -f mem01.raw --profile=Win7SP1x64 pslist
 
-![image](https://user-images.githubusercontent.com/99384019/153736567-cc50bb4b-4671-487b-9ad6-9f879eedfb00.png)
+![](image/1.png)
 
 The firefox web browser was running , so let’s check the history to know the sites the suspect visited . Using iehistory plugin .
 Command : vol.py -f mem01.raw --profile=Win7SP1x64 iehistory

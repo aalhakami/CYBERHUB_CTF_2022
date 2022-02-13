@@ -20,4 +20,5 @@ This is blind SQL injection attack , we use a script to get the flag , to know h
 ![image](https://user-images.githubusercontent.com/99384019/153737711-4f0dd59b-6fa3-488b-8735-badb136b4d45.png)
 
 Now let’s run the script on the log file
+
 Flag : g9UWD8EZgBhBpc4nTSAS

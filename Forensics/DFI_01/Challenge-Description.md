@@ -1,10 +1,13 @@
+# Abdullah Ali Alhakami
+# Twitter : @Alhakami1_
+# Email : Aalhakami.26@gmail.com
+
 Description : Show me your skills in volatility . 
 
 Level : Easy
 
 Enjoy : 
 
-@Alhakami
 
 First let’s check the process was running using volatility2 , and plugin pslist .
 Command : vol.py -f mem01.raw --profile=Win7SP1x64 pslist

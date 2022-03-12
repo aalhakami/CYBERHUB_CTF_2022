@@ -1,10 +1,12 @@
+# Abdullah Ali Alhakami
+# Twitter : @Alhakami1_
+# Email : Aalhakami.26@gmail.com
+
 Description : Our server under attack , what is going on ?
 
 Level : Hard
 
 Enjoy :
-
-@Alhakami
 
 
 First let's open the log file with notepad : 

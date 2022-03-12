@@ -1,10 +1,13 @@
+# Abdullah Ali Alhakami
+# Twitter : @Alhakami1_
+# Email : Aalhakami.26@gmail.com
+
 Description : Write a program read numbers from a file in C language and print the biggest number and minumim number 
 
 Level : Hard
 
 Enjoy :
 
-@Alhakami
 
 Code : 
 
